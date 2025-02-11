@@ -1,0 +1,21 @@
+
+{
+  "ingredients": [
+    {
+      "id": "1",
+      "translations": {
+        "en": "tomato",
+        "gr": "τομάτα"
+      },
+      "unit": "piece"
+    },
+    {
+      "id": "2",
+      "translations": {
+        "en": "potato",
+        "gr": "πατάτα"
+      },
+      "unit": "kg"
+    }
+  ]
+}

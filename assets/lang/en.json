@@ -1,0 +1,15 @@
+{
+  "home": "Home",
+  "ingredients": "Ingredients",
+  "search": "Search Recipes",
+  "recipes": "Recipes",
+  "supermarket": "Supermarket",
+  "settings": "Settings",
+  "subscription": "Subscription",
+  "language": "Language",
+  "light_mode": "Light Mode",
+  "dark_mode": "Dark Mode",
+  "free_plan": "Free Plan",
+  "monthly_plan": "Monthly Plan",
+  "yearly_plan": "Yearly Plan"
+}

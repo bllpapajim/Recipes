@@ -1,0 +1,87 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          { "name": "spaghetti", "quantity": "200g" },
+          { "name": "tomato", "quantity": "2 large" },
+          { "name": "minced meat", "quantity": "300g" },
+          { "name": "onion", "quantity": "1 medium" },
+          { "name": "garlic", "quantity": "2 cloves" }
+        ],
+        "instructions": [
+          "Cook spaghetti according to package instructions.",
+          "In a pan, sauté onion and garlic until fragrant.",
+          "Add minced meat and cook until browned.",
+          "Add tomatoes and simmer for 20 minutes.",
+          "Serve sauce over spaghetti."
+        ],
+        "time": {
+          "preparation": "10 minutes",
+          "cooking": "30 minutes"
+        },
+        "servings": 4,
+        "calories": 450,
+        "tags": ["Italian", "Main Course", "Comfort Food"],
+        "image": "https://example.com/images/spaghetti-bolognese.jpg",
+        "notes": "You can add grated cheese on top for extra flavor."
+      },
+      {
+        "id": 2,
+        "name": "Vegetable Soup",
+        "ingredients": [
+          { "name": "carrot", "quantity": "2 large" },
+          { "name": "potato", "quantity": "2 medium" },
+          { "name": "onion", "quantity": "1 medium" },
+          { "name": "celery", "quantity": "2 stalks" },
+          { "name": "garlic", "quantity": "3 cloves" },
+          { "name": "vegetable stock", "quantity": "1 liter" }
+        ],
+        "instructions": [
+          "Chop all vegetables into small pieces.",
+          "Sauté garlic in a pot until fragrant.",
+          "Add vegetables and sauté for 5 minutes.",
+          "Add vegetable stock and simmer for 25 minutes.",
+          "Blend if a smooth texture is desired."
+        ],
+        "time": {
+          "preparation": "15 minutes",
+          "cooking": "25 minutes"
+        },
+        "servings": 6,
+        "calories": 150,
+        "tags": ["Soup", "Healthy", "Vegan"],
+        "image": "https://example.com/images/vegetable-soup.jpg",
+        "notes": "You can add a dash of cream for a richer flavor."
+      },
+      {
+        "id": 3,
+        "name": "Greek Salad",
+        "ingredients": [
+          { "name": "tomato", "quantity": "3 medium" },
+          { "name": "cucumber", "quantity": "1 large" },
+          { "name": "onion", "quantity": "1 small" },
+          { "name": "feta cheese", "quantity": "200g" },
+          { "name": "olive oil", "quantity": "3 tbsp" },
+          { "name": "olives", "quantity": "10" },
+          { "name": "oregano", "quantity": "1 tsp" }
+        ],
+        "instructions": [
+          "Chop tomatoes, cucumber, and onion into bite-sized pieces.",
+          "Add feta cheese and olives.",
+          "Drizzle with olive oil and sprinkle with oregano.",
+          "Mix gently and serve."
+        ],
+        "time": {
+          "preparation": "10 minutes",
+          "cooking": "0 minutes"
+        },
+        "servings": 4,
+        "calories": 300,
+        "tags": ["Salad", "Mediterranean", "Healthy"],
+        "image": "https://example.com/images/greek-salad.jpg",
+        "notes": "For extra flavor, add a splash of lemon juice."
+      }
+    ]
+  }

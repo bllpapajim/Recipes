@@ -1,0 +1,44 @@
+{
+  "countries": {
+    "Greece": {
+      "en": "Greece",
+      "gr": "Ελλάδα"
+    },
+    "Italy": {
+      "en": "Italy",
+      "gr": "Ιταλία"
+    },
+    "France": {
+      "en": "France",
+      "gr": "Γαλλία"
+    },
+    "Mexico": {
+      "en": "Mexico",
+      "gr": "Μεξικό"
+    },
+    "Japan": {
+      "en": "Japan",
+      "gr": "Ιαπωνία"
+    },
+    "China": {
+      "en": "China",
+      "gr": "Κίνα"
+    },
+    "India": {
+      "en": "India",
+      "gr": "Ινδία"
+    },
+    "Thailand": {
+      "en": "Thailand",
+      "gr": "Ταϊλάνδη"
+    },
+    "Spain": {
+      "en": "Spain",
+      "gr": "Ισπανία"
+    },
+    "Turkey": {
+      "en": "Turkey",
+      "gr": "Τουρκία"
+    }
+  }
+}

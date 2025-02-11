@@ -1,0 +1,175 @@
+{
+  "recipes": [
+    {
+      "id": "Gre_1",
+      "name": {
+        "en": "Moussaka",
+        "gr": "Moussaka (μετάφραση)"
+      },
+      "country": {
+        "en": "Greece",
+        "gr": "Ελλάδα"
+      },
+      "ingredients": [
+        {
+          "id": "6",
+          "quantity": "2"
+        },
+        {
+          "id": "7",
+          "quantity": "1"
+        },
+        {
+          "id": "3",
+          "quantity": "2"
+        },
+        {
+          "id": "4",
+          "quantity": "2"
+        },
+        {
+          "id": "5",
+          "quantity": "2"
+        }
+      ],
+      "instructions": {
+        "en": "Prepare Moussaka using traditional methods.",
+        "gr": "Προετοιμάστε το Moussaka χρησιμοποιώντας παραδοσιακές μεθόδους."
+      },
+      "time": {
+        "preparation": "16 min",
+        "cooking": "44 min"
+      },
+      "tags": [
+        "traditional",
+        "popular",
+	"vegan"
+      ],
+      "difficulty": "hard",
+      "origin": {
+        "history": {
+          "en": "Moussaka is a famous dish from Greece, known for its unique taste.",
+          "gr": "Το Moussaka είναι ένα διάσημο πιάτο από την Ελλάδα, γνωστό για τη μοναδική του γεύση."
+        },
+        "popularity": {
+          "en": "Popular in Greece and internationally.",
+          "gr": "Δημοφιλές στην Ελλάδα και διεθνώς."
+        }
+      }
+    },
+    {
+      "id": "Gre_2",
+      "name": {
+        "en": "Souvlaki",
+        "gr": "Souvlaki (μετάφραση)"
+      },
+      "country": {
+        "en": "Greece",
+        "gr": "Ελλάδα"
+      },
+      "ingredients": [
+        {
+          "id": "7",
+          "quantity": "2"
+        },
+        {
+          "id": "6",
+          "quantity": "1"
+        },
+        {
+          "id": "10",
+          "quantity": "1"
+        },
+        {
+          "id": "1",
+          "quantity": "3"
+        },
+        {
+          "id": "4",
+          "quantity": "2"
+        }
+      ],
+      "instructions": {
+        "en": "Prepare Souvlaki using traditional methods.",
+        "gr": "Προετοιμάστε το Souvlaki χρησιμοποιώντας παραδοσιακές μεθόδους."
+      },
+      "time": {
+        "preparation": "9 min",
+        "cooking": "13 min"
+      },
+      "tags": [
+        "traditional",
+        "popular",
+	"vegererian"
+      ],
+      "difficulty": "hard",
+      "origin": {
+        "history": {
+          "en": "Souvlaki is a famous dish from Greece, known for its unique taste.",
+          "gr": "Το Souvlaki είναι ένα διάσημο πιάτο από την Ελλάδα, γνωστό για τη μοναδική του γεύση."
+        },
+        "popularity": {
+          "en": "Popular in Greece and internationally.",
+          "gr": "Δημοφιλές στην Ελλάδα και διεθνώς."
+        }
+      }
+    },
+    {
+      "id": "Gre_3",
+      "name": {
+        "en": "Greek Salad",
+        "gr": "Greek Salad (μετάφραση)"
+      },
+      "country": {
+        "en": "Greece",
+        "gr": "Ελλάδα"
+      },
+      "ingredients": [
+        {
+          "id": "9",
+          "quantity": "2"
+        },
+        {
+          "id": "2",
+          "quantity": "3"
+        },
+        {
+          "id": "8",
+          "quantity": "3"
+        },
+        {
+          "id": "10",
+          "quantity": "3"
+        },
+        {
+          "id": "5",
+          "quantity": "2"
+        }
+      ],
+      "instructions": {
+        "en": "Prepare Greek Salad using traditional methods.",
+        "gr": "Προετοιμάστε το Greek Salad χρησιμοποιώντας παραδοσιακές μεθόδους."
+      },
+      "time": {
+        "preparation": "22 min",
+        "cooking": "60 min"
+      },
+      "tags": [
+        "traditional",
+        "popular"
+      ],
+      "difficulty": "medium",
+      "origin": {
+        "history": {
+          "en": "Greek Salad is a famous dish from Greece, known for its unique taste.",
+          "gr": "Το Greek Salad είναι ένα διάσημο πιάτο από την Ελλάδα, γνωστό για τη μοναδική του γεύση."
+        },
+        "popularity": {
+          "en": "Popular in Greece and internationally.",
+          "gr": "Δημοφιλές στην Ελλάδα και διεθνώς."
+        }
+      }
+    }
+  ],
+  "version": 5
+}

@@ -1,0 +1,84 @@
+{
+  "ingredients": [
+    {
+      "id": "1",
+      "translations": {
+        "en": "Tomato",
+        "gr": "Ντομάτα"
+      },
+      "unit": "piece"
+    },
+    {
+      "id": "2",
+      "translations": {
+        "en": "Olive Oil",
+        "gr": "Ελαιόλαδο"
+      },
+      "unit": "ml"
+    },
+    {
+      "id": "3",
+      "translations": {
+        "en": "Garlic",
+        "gr": "Σκόρδο"
+      },
+      "unit": "clove"
+    },
+    {
+      "id": "4",
+      "translations": {
+        "en": "Onion",
+        "gr": "Κρεμμύδι"
+      },
+      "unit": "piece"
+    },
+    {
+      "id": "5",
+      "translations": {
+        "en": "Chicken",
+        "gr": "Κοτόπουλο"
+      },
+      "unit": "kg"
+    },
+    {
+      "id": "6",
+      "translations": {
+        "en": "Rice",
+        "gr": "Ρύζι"
+      },
+      "unit": "g"
+    },
+    {
+      "id": "7",
+      "translations": {
+        "en": "Beef",
+        "gr": "Βόειο κρέας"
+      },
+      "unit": "kg"
+    },
+    {
+      "id": "8",
+      "translations": {
+        "en": "Cheese",
+        "gr": "Τυρί"
+      },
+      "unit": "g"
+    },
+    {
+      "id": "9",
+      "translations": {
+        "en": "Salt",
+        "gr": "Αλάτι"
+      },
+      "unit": "g"
+    },
+    {
+      "id": "10",
+      "translations": {
+        "en": "Pepper",
+        "gr": "Πιπέρι"
+      },
+      "unit": "g"
+    }
+  ]
+}

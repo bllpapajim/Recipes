@@ -1,0 +1,37 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": {
+        "en": "Greek Salad",
+        "gr": "Ελληνική Σαλάτα"
+      },
+      "country": {
+        "en": "Greece",
+        "gr": "Ελλάδα"
+      },
+      "ingredients": [
+        { "id": "1", "quantity": "2" },
+        { "id": "2", "quantity": "1" }
+      ],
+      "instructions": {
+        "en": "Mix all ingredients and serve fresh.",
+        "gr": "Ανακατέψτε όλα τα υλικά και σερβίρετε φρέσκα."
+      },
+      "time": { "preparation": "10 min", "cooking": "0 min" },
+      "tags": ["salad", "healthy"],
+      "difficulty": "easy",
+      "origin": {
+        "history": {
+          "en": "A traditional dish from Greece, often enjoyed as a refreshing summer meal.",
+          "gr": "Ένα παραδοσιακό πιάτο από την Ελλάδα, συχνά απολαμβάνεται ως ένα δροσιστικό καλοκαιρινό γεύμα."
+        },
+        "popularity": {
+          "en": "Commonly found in Mediterranean cuisine.",
+          "gr": "Συχνά απαντάται στη μεσογειακή κουζίνα."
+        }
+      }
+    }
+  ],
+  "version": 3
+}
